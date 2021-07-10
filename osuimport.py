@@ -11,7 +11,6 @@ songs = "/osu/Songs"
 source = "/Downloads"
 #Place your download directory here
 
-#DEBUG
 while True:
 	conts = os.listdir(source)
 	check=0
