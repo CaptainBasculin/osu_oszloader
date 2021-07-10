@@ -5,9 +5,11 @@ import os
 import shutil
 import time
 
-songs = "/home/notbaitm8/Games/osu/drive_c/osu/Songs"
+songs = "/osu/Songs"
+#Place your /osu/songs directory here
 
-source = "/home/notbaitm8/İndirilenler"
+source = "/Downloads"
+#Place your download directory here
 
 #DEBUG
 while True:
