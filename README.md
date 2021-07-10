@@ -12,5 +12,5 @@ at which, the osu app can load it in with a beatmap list refresh.
 
 I made this because it felt like a hassle to open each osz file.
 
-Use this code at whatever you want. 
+Use this code at whatever you want. I permit it
 
