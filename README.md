@@ -12,7 +12,7 @@ Launch it via python3. (python3 osuimport_GUI.py) It will carry the osz files to
 at which, the osu app can load it in with a beatmap list refresh.
 
 Hit the "Prefill" key to load the variables in the creds.json file.
-Hit "Run" key to start the program
+Hit "Run" key to start the program.
 
 (Known Issues: The program cannot be stopped via buttons)
 
